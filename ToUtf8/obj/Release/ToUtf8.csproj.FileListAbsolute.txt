@@ -1,0 +1,6 @@
+E:\GithubProjects\WinProjects\ToUtf8\ToUtf8\ToUtf8\bin\Release\ToUtf8.exe.config
+E:\GithubProjects\WinProjects\ToUtf8\ToUtf8\ToUtf8\bin\Release\ToUtf8.exe
+E:\GithubProjects\WinProjects\ToUtf8\ToUtf8\ToUtf8\bin\Release\ToUtf8.pdb
+E:\GithubProjects\WinProjects\ToUtf8\ToUtf8\ToUtf8\obj\Release\ToUtf8.csproj.CoreCompileInputs.cache
+E:\GithubProjects\WinProjects\ToUtf8\ToUtf8\ToUtf8\obj\Release\ToUtf8.exe
+E:\GithubProjects\WinProjects\ToUtf8\ToUtf8\ToUtf8\obj\Release\ToUtf8.pdb
